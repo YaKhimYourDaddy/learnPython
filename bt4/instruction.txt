@@ -1,0 +1,4 @@
+Nộp bài:
+- Tạo 2 folder riêng cho 2 bài tập, đặt tên <MãSV>_BT<x> (x tương ứng với chỉ số bài tập)
+- zip/rar 2 folder đặt tên <MãSV>_N12_Ex4.zip (.rar)
+- Nộp 1 file zip/rar duy nhất qua MSTeams.
