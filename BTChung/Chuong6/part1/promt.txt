@@ -1,0 +1,6 @@
+Viết chương trình có menu thực hiện các chức năng sau, mỗi chức năng là 1 hàm:
+a. Nhập vào tên và số lượng của các mặt hàng. Lưu vào Dict, trong đó tên mặt hàng là key, số lượng là value của Dict. Việc nhập được lặp lại cho đến khi nhập vào tên là một ký tự rỗng. Nếu nhập tên mặt hàng đã có trong dict thì tăng số lượng chứ không thêm mặt hàng;
+b. In lên màn hình tên và số lượng của mặt hàng có số lượng lớn nhất và nhỏ nhất;
+c. Xóa những mặt hàng có số lượng <= 10. In kết quả lên màn hình sau xử lý;
+d. Nhập vào tên của một mặt hàng, tìm và in lên màn hình số lượng hiện có, nếu không tồn tại thì báo “Không tìm thấy”
+e. In ra toàn bộ mặt hàng và số lượng
